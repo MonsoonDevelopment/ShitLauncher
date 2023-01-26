@@ -1,4 +1,5 @@
-# Rise6Launcher
-This Launches Rise 6
+# Fuck you clumsy
+Fuck you clumsy
 
 
+haiku is a cutie :3
