@@ -1,7 +1,4 @@
-
-LauncherFiles/cum.json
-LauncherFiles/ViaMCP/ViaVersion/viaversion.yml
-LauncherFiles/resourcepacks/risetexture.zip
-LauncherFiles/Rise/configs/latest.json
-LauncherFiles/ViaMCP/ViaRewind/config.yml
-LauncherFiles/ViaMCP/ViaBackwards/config.yml
+.venv/
+Monsoon/
+ViaMCP/
+*/
